@@ -1,0 +1,60 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #2C2C2C;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+
+color: #FFFFFF;
+
+}
+
+body {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+main {
+    display: block;
+    text-align: center;
+    padding-top: 0.3px;
+    padding-bottom: 0px;
+    background-color: green;
+
+}
+
+.caja-artista {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    background-color: rosybrown;
+  
+
+}
+article{
+    background: #5AD2AE;
+border: 1px solid #469F85;
+box-sizing: border-box;
+border-radius: 20px;
+width: 103px;
+height: 115px;
+}
+
+.img-artista {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    grid-column-gap: 1px;
+
+}
