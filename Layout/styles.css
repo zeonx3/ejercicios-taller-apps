@@ -1,0 +1,58 @@
+.barHerra{
+    background: #FFFFFF;
+border: 5px solid #B10FCB;
+box-sizing: border-box;
+
+}
+.sub-barherra{
+    background: #FFFFFF;
+border: 5px solid #FF8A1F;
+box-sizing: border-box;
+}
+.conseg{
+    background: #FFFFFF;
+border: 5px solid #5DFF11;
+box-sizing: border-box;
+}
+.caja-celeste{
+    background: #FFFFFF;
+border: 5px solid #74E6FF;
+box-sizing: border-box;
+display: grid;
+grid-template-columns: 30% 70%;
+height: 450px;
+
+}
+.caja-azul{
+    background: #FFFFFF;
+border: 5px solid #231FFF;
+box-sizing: border-box;
+}
+body{
+    border: 5px solid #FF0000;
+box-sizing: border-box;
+text-align: center;
+
+}
+.caja-rosa{
+    background: #FFFFFF;
+border: 5px solid #FF1FF6;
+box-sizing: border-box;
+height: 334px;
+}
+h1{
+    
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 56px;
+}
+h2{
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+
+}
