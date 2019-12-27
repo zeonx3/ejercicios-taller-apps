@@ -1,0 +1,91 @@
+.contac-list {
+    padding: 0.5px;
+    border-style: solid;
+    border-color:blue;
+    text-align: center;
+    }
+    .n-contactos{
+  
+      padding: 0px;
+      border-style: solid;
+      border-color: yellow;
+      text-align: justify;
+  
+    }
+    .chat-user{
+        
+    padding: 0.5px;
+    border-style: solid;
+    border-color:blue;
+    text-align: center;
+    }
+    .chat-total{
+  
+      border-style: solid;
+      border-color: cyan;
+      text-align: justify;
+  
+    }
+    .body{
+        border-style: solid;
+    border-color: red;
+    text-align: center;
+    }
+    section{
+        display: grid;
+    grid-template-columns: 30% 70%;
+    }
+    .contactos{
+        
+      left:0px;
+      top:0px;
+      display: grid;
+      border-style: solid;
+      border-color: limegreen;
+    }
+    .chat{
+        
+      
+      left:207px;
+      top:0px;
+      display: grid;
+      border-style: solid;
+      border-color: magenta;
+    }
+    
+    
+    
+    .caja {
+        
+      height: 38px;
+      border-style: solid;
+      border-color: cyan;
+      text-align: left;
+  
+    
+    }
+    .caja1 {
+        
+      height: 25px;
+      border-style: solid;
+      border-color: cyan;
+      text-align: left;
+  
+    
+    }
+  
+  
+    .chat-msj{
+      height: 217px;
+      border-style: solid;
+      border-color: gray;
+      text-align: center;
+    }
+    .chat-lec{
+      color: grey;
+      height: 21px;
+      border-style: solid;
+      border-color: green;
+    }
+    
+  
